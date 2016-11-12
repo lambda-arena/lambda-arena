@@ -1,0 +1,15 @@
+name: lambda-arena
+version: 0.0.1
+stability: alpha
+maintainer: Shao Cheng <astrohavoc@gmail.com>
+copyright: (c) 2016 Shao Cheng
+license: AGPL-3
+github: TerrorJack/lambda-arena
+
+ghc-options: -Wall
+
+dependencies:
+    - base >= 4.9 && < 4.10
+
+library:
+    source-dirs: src
